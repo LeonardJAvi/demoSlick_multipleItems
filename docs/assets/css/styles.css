@@ -47,7 +47,7 @@ body {
 
 .carrusel-product .product .slick-slide {
   height: 300px;
-  background-color: #c55c5c;
+  /*background-color: #c55c5c;*/
   margin: 0px 10px; }
   .carrusel-product .product .slick-slide img {
     height: 100%;
